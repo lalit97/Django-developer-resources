@@ -69,6 +69,11 @@
 - [Practice @GFG](https://practice.geeksforgeeks.org/explore/?page=1)
 - [How to prepare for technical interviews](https://www.youtube.com/watch?v=fbRSDn5YK_k)
 
+## Web Technologies (HTML, CSS & JS)
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+
 ## Contribute to open source
 
 - [HackerEarth article](https://www.hackerearth.com/getstarted-opensource/)
