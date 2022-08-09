@@ -6,6 +6,7 @@
 - [Corey Schafer Playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) (Beginner's can skip video number 1, 10, 11, 12, 15 and watch till 63)
 - [Practice @Hackerrank](https://www.hackerrank.com/domains/python)
 - [Justin Mitchel playlist](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6)
+- [CS50 Python by David J. Malan](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
 
 ## HTTP & APIs Overview
 
