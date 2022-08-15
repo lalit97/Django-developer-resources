@@ -47,6 +47,7 @@
 
 ## Exploring Python, Django, DRF
 
+- [How to read the Docs](https://www.youtube.com/watch?v=E7fDz2Gm0mI)
 - [Pycon talks](https://github.com/jhermann/awesome-python-talks)
 - [Djangocon talks](https://github.com/wsvincent/awesome-django#conferences)
 - [The Agiliq blog](https://www.agiliq.com/blog/)
