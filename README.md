@@ -52,7 +52,7 @@
 - [Djangocon talks](https://github.com/wsvincent/awesome-django#conferences)
 - [The Agiliq blog](https://www.agiliq.com/blog/)
 - [Books by Agiliq — Books by Agiliq documentation](https://books.agiliq.com/en/latest/README.html)
-- [Django Class Based View Inspector](https://ccbv.co.uk/)
+- [Django Class-Based View Inspector](https://ccbv.co.uk/)
 - [Django REST Framework Inspector](http://www.cdrf.co/)
 - [Django Docs](https://docs.djangoproject.com/en/4.0/)
 - [DRF Docs](https://www.django-rest-framework.org/)
@@ -67,7 +67,7 @@
 
 ## DSA
 
-- [Topic wise resources](https://github.com/lalit97/dsa)
+- [Topic-wise resources](https://github.com/lalit97/dsa)
 - [Practice @GFG](https://practice.geeksforgeeks.org/explore/?page=1)
 - [How to prepare for technical interviews](https://www.youtube.com/watch?v=fbRSDn5YK_k)
 
@@ -83,7 +83,7 @@
 - [Stackoverflow article](https://stackoverflow.blog/2020/08/03/getting-started-with-contributing-to-open-source/)
 - [Opensource guide](https://opensource.guide/how-to-contribute/)
 - [Google Summer of Code](https://medium.com/coding-blocks/one-stop-guide-to-google-summer-of-code-a9e803beeda7)
-- [Learnings from contributing in an open-source project](https://sutharlalit-97.medium.com/how-open-source-happened-to-me-be2037ef35e1)
+- [Learnings from contributing to an open-source project](https://sutharlalit-97.medium.com/how-open-source-happened-to-me-be2037ef35e1)
 
 ## Build Personal Projects (1-2 or 3)
 
