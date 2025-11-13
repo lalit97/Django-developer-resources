@@ -87,8 +87,11 @@
 
 ## Build Personal Projects (1-2 or 3)
 
-## Build Portfolio website and Resume and Cover letter
+## Build Portfolio website, Resume, and Cover letter
 
 - [Resume tips](https://www.careercup.com/resume)
 - [Getting a gig](https://github.com/cassidoo/getting-a-gig)
 - [Standout angel profile](https://angel.co/blog/how-to-make-your-angellist-profile-stand-out-from-the-competition)
+
+## Backend dev roadmap
+- [Roadmap.sh](https://roadmap.sh/backend)
